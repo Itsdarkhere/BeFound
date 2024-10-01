@@ -5,6 +5,12 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --primary: #20201E;
+  --secondary: #FAF7F3;
+  --accent: #EB601D;
+  --textwo: rgba(250, 247, 243, 0.8);
+  --border: rgba(250, 247, 243, 0.20);
+  --bordertwo: #38382E;
 }
 
 @media (prefers-color-scheme: dark) {
