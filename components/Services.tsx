@@ -20,7 +20,7 @@ export default function Services() {
               <p className=' font-normal leading-tight text-secondary text-lg'>
                 Our expert team crafts tailored SEO and marketing strategies to
                 boost your online presence and attract your ideal customers.
-                Don't just exist online - be discovered, be remembered, BeFound.
+                Don&apos't just exist online - be discovered, be remembered, BeFound.
               </p>
             </div>
           </div>
@@ -33,7 +33,7 @@ export default function Services() {
               <p className=' font-normal leading-tight text-secondary text-lg'>
                 Our expert team crafts tailored SEO and marketing strategies to
                 boost your online presence and attract your ideal customers.
-                Don't just exist online - be discovered, be remembered, BeFound.
+                Don&apos't just exist online - be discovered, be remembered, BeFound.
               </p>
             </div>
           </div>
@@ -46,7 +46,7 @@ export default function Services() {
               <p className=' font-normal leading-tight text-secondary text-lg'>
                 Our expert team crafts tailored SEO and marketing strategies to
                 boost your online presence and attract your ideal customers.
-                Don't just exist online - be discovered, be remembered, BeFound.
+                Don&apos't just exist online - be discovered, be remembered, BeFound.
               </p>
             </div>
           </div>

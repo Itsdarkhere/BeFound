@@ -8,8 +8,8 @@ export default function Footer() {
         <div className='flex flex-col justify-start items-start'>
           <h2 className='text-accent text-2xl font-bold pb-1'>BeFound</h2>
           <span className=" text-sm text-secondary font-normal">
-            In today's digital age, managing your online presence isn't just a<br/>
-            side task—it's a full-time job. Our full-time job, be found.
+            In today&apos's digital age, managing your online presence isn&apos't just a<br/>
+            side task—it&apos's a full-time job. Our full-time job, be found.
           </span>
         </div>
         <div className="flex flex-row gap-8">
