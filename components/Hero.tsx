@@ -11,7 +11,7 @@ export default function Hero() {
                 <h6 className=' text-sm font-normal text-primary'>Free intro call for new clients!</h6>
             </div>
             <h1 className=' font-bold text-5xl leading-tight text-secondary pb-8'>Elevate Your Digital Visibility<br/>Together with BeFound</h1>
-            <h2 className=' text-textTwo max-w-3xl text-lg font-medium pb-12'>Our expert team crafts tailored SEO and marketing strategies to boost your online presence and attract your ideal customers. Don&apos't just exist online - be discovered, be remembered, BeFound.</h2>
+            <h2 className=' text-textTwo max-w-3xl text-lg font-medium pb-12'>Our expert team crafts tailored SEO and marketing strategies to boost your online presence and attract your ideal customers. Don&apos;t just exist online - be discovered, be remembered, BeFound.</h2>
             <button className=' bg-accent min-w-64 text-lg rounded-full py-4 font-bold text-secondary'>
                 Find out more
             </button>
