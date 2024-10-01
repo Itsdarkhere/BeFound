@@ -4,7 +4,7 @@ import { Linkedin, X } from 'lucide-react';
 export default function Footer() {
   return (
     <footer className='w-full border-t border-border px-4 flex flex-row justify-center items-center'>
-      <div className='max-w-7xl py-16 md:px-12 mx-auto w-full flex flex-col gap-6 md:flex-row justify-between items-start md:items-center'>
+      <div className='max-w-7xl py-16 mx-auto w-full flex flex-col gap-6 md:flex-row justify-between items-start md:items-center'>
         <div className='flex flex-col justify-start items-start'>
           <h2 className='text-accent text-2xl font-bold pb-1'>BeFound</h2>
           <span className=" text-sm text-secondary font-normal max-w-lg">
