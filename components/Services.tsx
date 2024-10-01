@@ -11,7 +11,7 @@ export default function Services() {
           Things we can help you with
         </h3>
         <div className='flex flex-col gap-8 w-full'>
-          <div className=' rounded-3xl bg-primary max-w-3xl flex flex-row gap-4 px-4 py-8 border border-borderTwo shadow-lg mr-auto'>
+          <div className=' rounded-3xl bg-primary max-w-3xl flex flex-col justify-center items-center md:flex-row gap-4 px-4 py-8 border border-borderTwo shadow-lg mr-auto'>
             <Image src={seo} alt='seo' height={150} />
             <div className='flex flex-col justify-start items-start'>
               <h6 className=' font-bold pb-2 text-secondary text-2xl'>
@@ -24,7 +24,7 @@ export default function Services() {
               </p>
             </div>
           </div>
-          <div className=' rounded-3xl bg-primary max-w-3xl flex flex-row gap-4 px-4 py-8 border border-borderTwo shadow-lg ml-auto'>
+          <div className=' rounded-3xl bg-primary max-w-3xl flex flex-col justify-center items-center md:flex-row gap-4 px-4 py-8 border border-borderTwo shadow-lg ml-auto'>
             <Image src={development} alt='web & mobile development' height={150} />
             <div className='flex flex-col justify-start items-start'>
               <h6 className=' font-bold pb-2 text-secondary text-2xl'>
@@ -37,7 +37,7 @@ export default function Services() {
               </p>
             </div>
           </div>
-          <div className=' rounded-3xl bg-primary max-w-3xl flex flex-row gap-4 px-4 py-8 border border-borderTwo shadow-lg mr-auto'>
+          <div className=' rounded-3xl bg-primary max-w-3xl flex flex-col justify-center items-center md:flex-row gap-4 px-4 py-8 border border-borderTwo shadow-lg mr-auto'>
             <Image src={social} alt='social media management' height={150} />
             <div className='flex flex-col justify-start items-start'>
               <h6 className=' font-bold pb-2 text-secondary text-2xl'>

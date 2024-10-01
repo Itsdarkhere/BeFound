@@ -3,12 +3,12 @@ import { Linkedin, X } from 'lucide-react';
 
 export default function Footer() {
   return (
-    <footer className='w-full border-t border-border px-4 py-8 flex flex-row justify-center items-center'>
-      <div className='max-w-7xl py-16 px-12 mx-auto w-full flex flex-row justify-between items-center'>
+    <footer className='w-full border-t border-border px-4 flex flex-row justify-center items-center'>
+      <div className='max-w-7xl py-16 md:px-12 mx-auto w-full flex flex-col gap-6 md:flex-row justify-between items-start md:items-center'>
         <div className='flex flex-col justify-start items-start'>
           <h2 className='text-accent text-2xl font-bold pb-1'>BeFound</h2>
-          <span className=" text-sm text-secondary font-normal">
-            In today&apos;s digital age, managing your online presence isn&apos;t just a<br/>
+          <span className=" text-sm text-secondary font-normal max-w-lg">
+            In today&apos;s digital age, managing your online presence isn&apos;t just a
             side task—it&apos;s a full-time job. Our full-time job, be found.
           </span>
         </div>
