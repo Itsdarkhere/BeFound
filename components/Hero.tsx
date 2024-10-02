@@ -1,4 +1,4 @@
-import { Menu } from "lucide-react";
+import { Info } from "lucide-react";
 import Image from "next/image";
 import hero from "../public/hero.svg";
 import m_hero from "../public/mhero.svg";
@@ -8,7 +8,7 @@ export default function Hero() {
       <div className='max-w-7xl mx-auto py-16 w-full flex flex-col md:flex-row gap-8 justify-between items-center'>
         <div className='flex flex-col justify-start items-start'>
           <div className='flex flex-row items-center mb-4 gap-2 bg-textTwo rounded-3xl py-2 px-4'>
-            <Menu className=' text-primary w-4 h-4' />
+            <Info className=' text-primary w-4 h-4' />
             <h6 className=' text-sm font-normal text-primary'>
               Free intro call for new clients!
             </h6>
@@ -24,7 +24,7 @@ export default function Hero() {
             Don&apos;t just exist online - be discovered, be remembered,
             BeFound.
           </h2>
-          <button className=' bg-accent min-w-64 text-lg rounded-full py-4 font-bold text-secondary'>
+          <button className=' bg-accent min-w-64 focus-within:outline focus-within:outline-offset-4 focus-within:outline-secondary focus-within:outline-2 text-lg rounded-full py-4 font-bold text-secondary'>
             Find out more
           </button>
         </div>
