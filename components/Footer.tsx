@@ -7,7 +7,7 @@ export default function Footer() {
       <div className='max-w-7xl py-16 mx-auto w-full flex flex-col gap-6 md:flex-row justify-between items-start md:items-center'>
         <div className='flex flex-col justify-start items-start'>
           <h2 className='text-accent text-2xl font-bold pb-1'>BeFound</h2>
-          <span className=" text-sm text-secondary font-normal max-w-lg">
+          <span className=" text-sm text-textTwo font-normal max-w-lg">
             In today&apos;s digital age, managing your online presence isn&apos;t just a
             side task—it&apos;s a full-time job. Our full-time job, be found.
           </span>
