@@ -15,6 +15,7 @@ const config: Config = {
         secondary: "var(--secondary)",
         accent: "var(--accent)",
         textTwo: "var(--textwo)",
+        textThree: "var(--textthree)",
         border: "var(--border)",
         borderTwo: "var(--bordertwo)",
       },

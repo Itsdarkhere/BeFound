@@ -8,7 +8,8 @@
   --primary: #20201E;
   --secondary: #FAF7F3;
   --accent: #EB601D;
-  --textwo: rgba(250, 247, 243, 0.8);
+  --textwo: #EEEAE5;
+  --textthree: rgba(32, 32, 30, 0.70);
   --border: rgba(250, 247, 243, 0.20);
   --bordertwo: #38382E;
 }

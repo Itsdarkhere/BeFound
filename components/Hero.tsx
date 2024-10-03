@@ -1,6 +1,6 @@
 import { Info } from "lucide-react";
 import Image from "next/image";
-import hero from "../public/hero.svg";
+import hero from "../public/hero1.svg";
 import m_hero from "../public/mhero.svg";
 export default function Hero() {
   return (
@@ -18,7 +18,7 @@ export default function Hero() {
             <br />
             Together with BeFound
           </h1>
-          <h2 className=' text-textTwo max-w-xl text-lg font-medium pb-12'>
+          <h2 className=' text-textTwo max-w-xl text-lg leading-tight font-normal pb-12'>
             Our expert team crafts tailored SEO and marketing strategies to
             boost your online presence and attract your ideal customers.
             Don&apos;t just exist online - be discovered, be remembered,
