@@ -32,3 +32,7 @@ body {
     text-wrap: balance;
   }
 }
+
+.background-lg {
+  background: linear-gradient(40deg, #32261E 0%, rgba(235, 96, 29, 0.80) 100%);
+}

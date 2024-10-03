@@ -24,7 +24,7 @@ export default function Hero() {
             Don&apos;t just exist online - be discovered, be remembered,
             BeFound.
           </h2>
-          <button className=' bg-accent min-w-64 focus-within:outline focus-within:outline-offset-4 focus-within:outline-secondary focus-within:outline-2 text-lg rounded-full py-4 font-bold text-secondary'>
+          <button className=' bg-accent min-w-64 focus-within:outline focus-within:outline-offset-4 focus-within:outline-orange-800 focus-within:outline-2 text-lg rounded-full py-4 font-semibold text-secondary'>
             Find out more
           </button>
         </div>
