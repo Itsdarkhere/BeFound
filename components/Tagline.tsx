@@ -1,5 +1,3 @@
-import Image from "next/image";
-import cubes from "../public/Cubes.svg"
 export default function Tagline() {
   return (
     <section className='w-full background-lg px-4 relative flex flex-row justify-center items-center'>
