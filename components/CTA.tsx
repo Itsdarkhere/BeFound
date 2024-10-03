@@ -3,7 +3,7 @@ import email from "../public/email.svg"
 export default function CTA() {
   return (
     <section className='w-full px-4 py-16 flex flex-row justify-center items-center'>
-      <div className='max-w-7xl py-16 px-4 md:px-12 rounded-3xl bg-accent mx-auto w-full flex flex-col gap-6 md:flex-row justify-between items-center'>
+      <div className='max-w-7xl py-8 md:py-16 px-4 md:px-12 rounded-3xl bg-accent mx-auto w-full flex flex-col gap-6 md:flex-row justify-between items-center'>
         <div className="flex flex-col justify-start items-start max-w-xl">
             <h4 className=" font-semibold text-secondary pb-2 text-4xl">Leave your email<br/>& we will get back to you</h4>
             <p className=" font-normal text-textTwo text-base pb-8">This alone commits you to nothing, we will email you and see if we can schedual a call to figure out if we can help!</p>
